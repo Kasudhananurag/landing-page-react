@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Satisfy&display=swap');
+
+body{
+  background-color: #000300;
+}
